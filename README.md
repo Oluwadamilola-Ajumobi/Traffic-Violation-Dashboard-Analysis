@@ -29,3 +29,7 @@ Dataset Attribute Information:
 
 
 ![Blue Minimalist Linear Circular Diagram](https://user-images.githubusercontent.com/83877492/151156226-cccbf0f7-ec3f-4652-a801-ae3760df8cdb.png)
+
+#Understanding the Problem 
+
+Some of the key important questions I'll be looking into with this analysis include;
