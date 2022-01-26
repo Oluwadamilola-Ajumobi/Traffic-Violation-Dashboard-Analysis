@@ -4,7 +4,7 @@
 
 
 # INTRODUCTION
-This dataset contains around 65k+ traffic-related violation records.
+This dataset contains around 65k+ traffic-related violation records. Each row contains information about a traffic violation that occurred at a particular time. 
 
 Dataset Attribute Information:
 
