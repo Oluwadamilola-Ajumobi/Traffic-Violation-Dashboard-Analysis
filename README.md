@@ -26,3 +26,6 @@ Dataset Attribute Information:
 - is_arrested - Whether a person was arrested in True and False form
 - stop_duration - Detained time for violators approx (in minutes)
 - drugsrelatedstop - Whether a person was involved in drugs crime (True, False)
+
+
+![Blue Minimalist Linear Circular Diagram](https://user-images.githubusercontent.com/83877492/151156226-cccbf0f7-ec3f-4652-a801-ae3760df8cdb.png)
