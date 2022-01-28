@@ -40,7 +40,8 @@ The goal here is to do an analysis of the traffic violation dataset to see if th
 - Average age of Offenders
 - Traffic violation based on race
 - No of violations per hour
-- Violation distribution
+- Most frequent violation
+- Outcomes of this violations
 
 # Data Preparation
 
