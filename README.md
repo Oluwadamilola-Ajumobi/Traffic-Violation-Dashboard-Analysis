@@ -32,7 +32,7 @@ Dataset Attribute Information:
 
 # Understanding the Problem 
 
-Some of the key important questions I'll be looking into with this analysis include;
+The goal here is to do an analysis of the traffic violation dataset to see if the tactics used to curb violations has been effective over the years. Some of the key important questions I'll be looking into with this analysis include;
 - Has the Traffic violation increased or decreased over the years?
 - How long does it take for a violator to get flagged down?
 - Violation by gender
@@ -40,6 +40,7 @@ Some of the key important questions I'll be looking into with this analysis incl
 - Average age of Offenders
 - Traffic violation based on race
 - No of violations per hour
+- Violation distribution
 
 # Data Preparation
 
