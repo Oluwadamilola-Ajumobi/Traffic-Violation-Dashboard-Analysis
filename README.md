@@ -33,8 +33,13 @@ Dataset Attribute Information:
 # Understanding the Problem 
 
 Some of the key important questions I'll be looking into with this analysis include;
-- Has the Traffic violation incresed or decreased over the years?
+- Has the Traffic violation increased or decreased over the years?
 - How long does it take for a violator to get flagged down?
 - The gender with the highest violation rate?
 - If more searches were conducted than not?
 - Average age of Offenders
+- Traffic violation based on race
+
+# Data Preparation
+
+Prepared the dataset using Powerquery editor in PowerBI. Extracted the columns with 90% empty values and also the null values in each column
