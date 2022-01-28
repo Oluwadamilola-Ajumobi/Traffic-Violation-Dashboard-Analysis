@@ -73,3 +73,8 @@ From the first dashboard page,
 - More vehicles were stopped within the hours of 6am - 4pm, there was less violation in the late evenings and then more violations in the middle of the night. 
 
 ![Screenshot (92)](https://user-images.githubusercontent.com/83877492/151535920-a0bac9b2-96a6-46aa-9e38-118c1ce3ad01.png)
+
+The next page shows;
+- The age distribution shows that the highest number of violators are between the ages of 20 - 40
+- Over 90% of violation neither resulted in searches or arrests and were also non-drug related
+- Citation has the highest number of stop outcome
