@@ -62,6 +62,12 @@ Using the star schema method to model the data, the 5 dimensions tables created 
 
 From the first dashboard analysis, 
 - The dataset contains 49.34K observations after removing the null values and empty columns
+- Over the years, there was a reduced number of violation in 2005, 2006 came with a rise in violations and then it gradually dropped 2007 - 2011
 - Average time it takes to flag down an offender is approximately 0.50 seconds
+- January has the highest monthly record of violations
 - Average age of offenders is 34 years 
 - A total number of 396 drug related arrests were made 
+- We have a higher percentage of Male violators than Female violators 
+- Violation by race shows that we have more white offenders, followed by blacks and hispanic
+- Speeding has the highest record for traffic violation committed
+- More vehicles were stopped within the hours of 6am - 4pm, there was less violation in the late evenings and then more violations in the middle of the night. 
