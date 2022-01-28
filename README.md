@@ -60,7 +60,7 @@ Using the star schema method to model the data, the 5 dimensions tables created 
 
 ![Screenshot (91)](https://user-images.githubusercontent.com/83877492/151516544-ce30bab7-a61c-41bb-ad8b-1883b372b032.png)
 
-From the first dashboard analysis, 
+From the first dashboard page, 
 - The dataset contains 49.34K observations after removing the null values and empty columns
 - Over the years, there was a reduced number of violation in 2005, 2006 came with a rise in violations and then it gradually dropped 2007 - 2011
 - Average time it takes to flag down an offender is approximately 0.50 seconds
@@ -71,3 +71,5 @@ From the first dashboard analysis,
 - Violation by race shows that we have more white offenders, followed by blacks and hispanic
 - Speeding has the highest record for traffic violation committed
 - More vehicles were stopped within the hours of 6am - 4pm, there was less violation in the late evenings and then more violations in the middle of the night. 
+
+![Screenshot (92)](https://user-images.githubusercontent.com/83877492/151535920-a0bac9b2-96a6-46aa-9e38-118c1ce3ad01.png)
