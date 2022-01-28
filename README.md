@@ -42,7 +42,7 @@ Some of the key important questions I'll be looking into with this analysis incl
 
 # Data Preparation
 
-Prepared the dataset using Powerquery editor in PowerBI. Extracted the columns with 90% empty values and also the null values in each column, resolve data inconsistencies and confirmed that every other column was in perfect condition.
+Prepared the dataset using Powerquery editor in PowerBI. Extracted the columns with 90% empty values and also the null values in each column, resolved data inconsistencies and confirmed that every other column was in perfect condition.
 
 
 # Data Modelling
