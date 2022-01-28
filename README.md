@@ -56,7 +56,7 @@ Using the star schema method to model the data, the 5 dimensions tables created 
 - Violation dimension
 - Violation outcome dimension 
 
-# Data Visualization 
+# Data Visualization and Analysis
 
 ![Screenshot (91)](https://user-images.githubusercontent.com/83877492/151516544-ce30bab7-a61c-41bb-ad8b-1883b372b032.png)
 
@@ -78,3 +78,7 @@ The next page shows;
 - The age distribution shows that the highest number of violators are between the ages of 20 - 40
 - Over 90% of violation neither resulted in searches or arrests and were also non-drug related
 - Citation has the highest number of stop outcome
+
+# Conclusion and Recommendation
+
+Traffic violation is quite rampant in cities around the world and it can further lead to severe incidents such as road accidents or car collisions. Although, there has been a significant decrease in traffic violation over the years, traffic 
