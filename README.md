@@ -81,4 +81,7 @@ The next page shows;
 
 # Conclusion and Recommendation
 
-Traffic violation is quite rampant in cities around the world and it can further lead to severe incidents such as road accidents or car collisions. Although, there has been a significant decrease in traffic violation over the years, traffic 
+Traffic violation is quite rampant in cities around the world and it can further lead to severe incidents such as road accidents or car collisions leading to loss of lives and properties. Although, according to the data, there has been a significant decrease in traffic violation over the years, more traffic violation regulations should be put in place. 
+- Stricter punishments should be given to extreme and constant violators
+- Increased traffic regulation awareness to citizens to keep them informed about the dangers of violating traffic laws
+- Cities should have more traffic violation detectors that would easily capture violations committed. 
