@@ -32,7 +32,7 @@ Dataset Attribute Information:
 
 # Understanding the Problem 
 
-The goal here is to do an analysis of the traffic violation dataset to see if the tactics used to curb violations has been effective over the years. Some of the key important questions I'll be looking into with this analysis include;
+The goal here is to do an analysis of the traffic violation dataset to see if the tactics used to curb violations has been effective over the years (2005 - 2011). Some of the key important questions I'll be looking into with this analysis include;
 - Has the Traffic violation increased or decreased over the years?
 - How long does it take for a violator to get flagged down?
 - Violation by gender
@@ -55,3 +55,7 @@ Using the star schema method to model the data, the 5 dimensions tables created 
 - Offenders attribute dimension
 - Violation dimension
 - Violation outcome dimension 
+
+# Data Visualization 
+
+![Screenshot (91)](https://user-images.githubusercontent.com/83877492/151516544-ce30bab7-a61c-41bb-ad8b-1883b372b032.png)
